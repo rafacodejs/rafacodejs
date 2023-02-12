@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web technolgies**
 
-- 👨‍💻 All of my projects are available at [https://rafaelmalpica.netlify.app/](https://rafaelmalpica.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rafacodejs.netlify.app/](https://rafacodejs.netlify.app/)
 
 - 💬 Ask me about **Frontend**
 
